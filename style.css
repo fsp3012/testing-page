@@ -1,0 +1,170 @@
+/* p{
+    color: rgb(139, 27, 27);
+}
+#first{
+    color: blue
+}
+#second{
+    color: green;
+}
+.blue{
+    color: red;
+}
+.red{
+    color: black;
+}
+.test{
+    color: indigo;
+}
+#another{
+    color: blue;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.test h2{
+    font-size: 50px;
+    font-weight: 100;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.size{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    text-align:start;
+    line-height:20px ;
+    text-decoration: underline;
+    letter-spacing: 20px;
+
+}
+a{
+    text-decoration: line-through;
+    text-transform: uppercase;
+    font-size: larger;
+    font-weight: 900;
+}
+.parent{
+    font-size: 20px;
+}
+.child{
+    font-size: 3em;
+}
+.rem{
+    font-size: 3rem;
+
+}
+
+h1{
+    display:block;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    margin: 0 auto;
+
+ ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    background-color: green;
+}
+ul li a{
+    text-decoration:none;
+    color: red;
+    
+}
+ol li{
+    list-style-type: lower-roman;
+}
+.one{
+    position: static;
+    border: 1px solid red;
+    width: 800px;
+    height: 100px;
+}
+.two{
+    position: fixed;
+    top: 50%;
+    bottom: 50%;
+    border: 1px solid red;
+    width: 800px;
+    height: 100px;
+
+}
+.three{
+    position: sticky;
+    color: white;
+    top: 50%;
+    bottom: 50%;
+    left: 100%;
+    background-color: black;
+    border: 1px solid red;
+    width: 800px;
+    height: 100px;
+
+}
+.four{
+    position: absolute;
+   top: 30px;
+   left: 90px;
+    border: 1px solid red;
+    width: 800px;
+    height: 100px;
+    box-shadow: 3px 5px gray;
+
+}
+.five{
+    position: relative;
+   top: 50px;
+   left:60px;
+    border: 1px solid red;
+    width: 800px;
+    height: 100px;
+}
+ol li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    background-color: green;
+    text-decoration:none;
+    color: red;
+}
+
+  */
+  /* .flex div{
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+}
+.flex{
+    border: 2px solid red;
+    display: flex;
+    justify-content:space-evenly;
+}
+.one{
+    flex: 2
+}
+.two{
+    flex: 2;
+}
+.three{
+    flex: 2;
+}
+.bg{
+    width: 100%;
+    height: 100vh;
+    background: url(../images/urus1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    color: blue;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+} */
+nav{
+    display: flex;
+}
